@@ -2,7 +2,7 @@
 A small ray of interpretation of Machine Learning 
 
 **REFER THE FOLLOWING MEDIUM ARTICLE FOR INTERPRETATION:**
-<br/></br>
+<br/>https://namitha-guruprasad1410.medium.com/machnease-delaunay-triangulation-and-voronoi-diagram-using-facial-landmarks-2edbe2353ed5</br>
 
 **To download the dependency file : shape_predictor_68_face_landmarks.dat, refer the following link**<br/> 
 http://dlib.net/files/
